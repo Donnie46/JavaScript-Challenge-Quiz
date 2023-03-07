@@ -1,0 +1,12 @@
+body {
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    border-radius: 5px
+}
